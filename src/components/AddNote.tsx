@@ -1,5 +1,4 @@
 // AddNote.tsx
-
 import { useState } from "react";
 import { useDispatch } from "react-redux";
 import { NotePayload, addNote } from "../state/notesSlice";

@@ -1,5 +1,4 @@
 // NotesList.tsx
-
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "../state/store";
 import { Note, removeNote } from "../state/notesSlice";

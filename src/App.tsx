@@ -1,5 +1,4 @@
 // App.tsx
-
 import "bootstrap/dist/css/bootstrap.min.css";
 import AddNote from "./components/AddNote";
 import NotesList from './components/NotesList'
