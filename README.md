@@ -9,3 +9,5 @@ This app can be used for taking down notes
 * Javascript
 * HTML
 * CSS
+
+Visit this site - https://sanvidurath.github.io/Notes-app/
